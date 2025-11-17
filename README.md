@@ -77,7 +77,7 @@ int main(int argc, char *argv[]) {
 
 ## OUTPUT
 
-<img width="604" height="94" alt="image" src="https://github.com/user-attachments/assets/4260deab-84e2-4ab2-8717-42afa64d6963" />
+<img width="531" height="273" alt="1" src="https://github.com/user-attachments/assets/4be836b6-affa-4ed3-83d7-d7ef6dde6375" />
 
 
 
@@ -155,12 +155,9 @@ int main(int argc, char *argv[]) {
 
 ## OUTPUT
 
-<img width="812" height="271" alt="image" src="https://github.com/user-attachments/assets/86259232-e21a-4830-8a1f-ee8b1a2bd548" />
+<img width="1920" height="1066" alt="Screenshot at 2025-11-17 15-16-30" src="https://github.com/user-attachments/assets/fadbab26-1cd7-4081-9b14-25746a12c9d2" />
+<img width="1920" height="1066" alt="Screenshot at 2025-11-17 15-18-08" src="https://github.com/user-attachments/assets/7ef4b7e8-739a-44cc-83f6-e83305aef4e7" />
 
-![Screenshot 2025-05-08 112715](https://github.com/user-attachments/assets/ba3d55c3-ec80-4838-904d-814f532acdbf)
-![Screenshot 2025-05-08 112736](https://github.com/user-attachments/assets/9a92aaca-3e67-4642-82df-d3cf735a3261)
-
-![Screenshot 2025-05-08 112751](https://github.com/user-attachments/assets/bed6c9c9-5958-4eb6-af19-64b4e05ec54b)
 
 # RESULT:
 The programs are executed successfully.
